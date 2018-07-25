@@ -1,0 +1,41 @@
+*{
+  padding: 0rem;
+  margin: 0rem;
+}
+.list{
+    margin-right: 0.25rem;
+    margin-left: 0.25rem;
+    margin-bottom: 0.08rem;
+    background-color: white;
+    box-shadow: -1px 0px 20px 8px rgba(210, 210, 210, 0.49);
+    padding: 0.25rem 0.5rem 0.20rem 0.5rem;
+}
+.image{
+    margin-top: 0.11rem;
+    width: 1.5rem;
+    border-radius: 0.5rem;
+}
+.sapceprojectdata{
+    padding-left: 0.3rem;
+}
+
+.name{
+    font-size: 0.33rem;
+    font-weight: bold;
+}
+.field{
+    font-size: 0.2rem;
+    color:gray;
+    width: 1rem;
+    text-align: right;
+}
+.introducedata{
+    padding-top: 0.1rem;
+    line-height: 0.35rem;
+    font-size: 0.23rem;
+    width:100%;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}

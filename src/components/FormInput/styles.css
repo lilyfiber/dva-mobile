@@ -1,0 +1,32 @@
+.required
+{
+  color: red;
+  padding-left: 0.1rem;
+}
+
+.tips
+{
+  padding: 0.1rem;
+  text-align: center;
+  font-size: 0.2rem;
+  color: #ff712a;
+  position: absolute;
+  right: 1rem;
+  top: 0.1rem;
+}
+
+.tips2
+{
+  padding: 0.1rem;
+  text-align: center;
+  font-size: 0.2rem;
+  color: #ff712a;
+  position: absolute;
+  right: 2rem;
+  top: 0.1rem;
+}
+
+.inputBlock
+{
+  position: relative;
+}

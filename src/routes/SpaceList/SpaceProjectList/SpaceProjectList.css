@@ -1,0 +1,42 @@
+.row
+{
+  padding: 0 0.5rem 0 0;
+  margin: 0.5rem 0.5rem;
+  height: 5.6rem;
+  border:  0.06rem solid black;
+}
+/*
+.image
+{
+  height: 100%;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}*/
+.content {
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+}
+.type {
+  padding-left: 2.5rem;
+  font-size: 0.70rem;
+ }
+.frame{
+  position: relative;
+  margin-right: 0.25rem;
+  margin-left: 0.25rem;
+  margin-bottom: 0.08rem;
+  background-color: white;
+  padding: 0.25rem 1.05rem 0.20rem 1.05rem;
+  box-shadow: -4px 3px 16px 0px #d2d2d2;
+}
+.image{
+  margin-top: 0.11rem;
+}
+// 页面无数据样式
+.notice {
+  font-size: 0.5rem;
+  text-align: center;
+  color: #00C2FF;
+  padding-top: 1.2rem;
+}

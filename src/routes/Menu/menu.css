@@ -1,0 +1,160 @@
+.page
+{
+
+}
+
+.pageContent
+{
+  padding-bottom: 1.8rem;
+  background-color: #f2f2f2;
+}
+
+/* 底部容器 */
+.menuContainer
+{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 1.15rem;
+  border-top: 1px solid #cecece;
+  background-color: white;
+  padding: 0.3rem 0.43rem 0.15rem 0.43rem;
+  z-index: 100000;
+}
+
+.menuButtons
+{
+  position: relative;
+  text-align: center;
+}
+
+.menuButton
+{
+  position: absolute;
+  top: 0;
+}
+
+.menuItem
+{
+  position: relative;
+  width: 0.72rem;
+  height: 0.95rem;
+  text-align: center;
+  color: black;
+  display: inline-block;
+}
+
+.icon
+{
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  color: #231815;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  top: -0.15rem;
+  left: -0.10rem;
+  width: 0.72rem;
+  height: 0.6rem;
+  position: absolute;
+  font-size: 0.9rem;
+}
+
+.label
+{
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-size: 0.24rem;
+  text-align: center;
+}
+
+.currentButton
+{
+  position: relative;
+  width: 1.04rem;
+  height: 1.04rem;
+  margin: auto;
+}
+
+.menuCircle
+{
+  position: absolute;
+  top: -0.5rem;
+  left: 0;
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 1.2rem;
+  border: 2px solid #babbbb;
+  line-height: 0.38rem;
+  background-color: white;
+  box-shadow: 0rem 0rem 0.2rem #d6d6d6;
+}
+
+.menuCircleMask
+{
+  position: absolute;
+  top: -0.05rem;
+  left: -0.14rem;
+  width: 1.2rem;
+  height: 1.04rem;
+  text-align: center;
+  color: black;
+  display: inline-block;
+  background-color: white;
+  border-left: 0.15rem solid white;
+  border-right: 0.15rem solid white;
+}
+
+.menuItemMain
+{
+  position: relative;
+  width: 0.96rem;
+  height: 1.00rem;
+  text-align: center;
+  color: black;
+  display: inline-block;
+}
+
+.iconMain
+{
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  top: -0.40rem;
+  left: -0.1rem;
+  width: 0.96rem;
+  height: 0.9rem;
+  position: absolute;
+  font-size: 1.1rem;
+}
+
+.labelMain
+{
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-size: 0.3rem;
+  text-align: center;
+}

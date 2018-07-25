@@ -1,0 +1,145 @@
+.img{
+  width: 100%;
+}
+
+.content {
+  padding: 0.56rem 0.72rem;
+  background-color: #FFF;
+}
+
+.title {
+  line-height: 0.5rem;
+  font-size: 0.3122rem;
+  color: #000;
+  padding-bottom: 0.7rem;
+}
+.detail
+{
+  line-height: 0.52rem;
+  font-size: 0.3122rem;
+  color: #949494;
+}
+.info{
+  margin-top: 0.54rem;
+}
+.time {
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  background: url(../../../assets/time.png); 
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: contain;
+}
+.place {
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  background: url(../../../assets/place.png);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: contain;
+}
+.label {
+  margin: 0 0 0 0.2rem;
+  color: #949494;
+  line-height: 0.52rem;
+  font-size: 0.3122rem;
+}
+
+.map {
+  width: 100%;
+  height: 3.76rem;
+}
+.fabulous {
+  margin: -0.2rem 0 0.3rem 0;
+}
+.good {
+  margin: 0.4rem 0.32rem 0 0.32rem;
+}
+.head {
+  width: 0.63rem;
+  height: 0.63rem;
+  border-radius: 3.6rem;
+}
+.num {
+  font-size: 0.2861rem;
+}
+.text {
+  width: 100%;
+  height: 0.96rem;
+  line-height: 0.7rem;
+  background-color: #00C2FF;
+  text-align: center;
+  font-size: 0.3122rem;
+  color: #FFF;
+}
+.infotmation {
+  margin: -0.16rem 0.24rem 0.2rem 0.24rem;
+  padding: 0.2rem 0.24rem;
+  background-color: #FFF;
+  border-radius: 0.05rem;
+  box-shadow: -3px 3px 20px 0px #989292;
+}
+.bigHead {
+  width: 1.12rem;
+  height: 1.12rem;
+  border-radius: 3.6rem;
+}
+.business {
+  padding: 0.01rem 0.3rem 0.01rem 0;
+  font-size: 0.3122rem;
+}
+.textaream {
+  margin-top: 0.1rem;
+  padding: 0 0.1rem;
+  border: 1px solid #C7C8C8;
+  font-size: 0.3122rem;
+}
+.say {
+  margin: 0.2rem auto;
+  width: 1rem;
+  height: 1rem;
+  line-height: 1rem;
+  border-radius: 3.6rem;
+  background-color: #00C2FF;
+  box-shadow: 0px 0px 20px 0px #989292;
+  font-size: 0.3122rem;
+  text-align: center;
+  color: #FFF;
+}
+
+.commentContent {
+  margin: 0 0.24rem 0.2rem 0.24rem;
+  padding: 0.32rem;
+  background-color: #FFF;
+  border-radius: 0.05rem;
+  box-shadow: -3px 3px 20px 0px #989292;
+}
+.sayPeople {
+  padding: 0;
+  font-size: 0.3122rem;
+  color: #333333;
+}
+.sayWord {
+  padding: 0;
+  margin-top: 0.1rem;
+  line-height: 0.5rem;
+  font-size: 0.312rem;
+  color: #808080;
+}
+
+.actSign{
+  width: 1.35rem;
+  height: 1.35rem;
+  line-height: 1.35rem;
+  border-radius: 3.6rem;
+  background-color: #00C2FF;
+  box-shadow: 0px 0px 20px 0px #989292;
+  font-size: 0.3122rem;
+  text-align: center;
+  color: #FFF;
+  position: fixed;
+  bottom: 0.3rem;
+  right: 0.5rem;
+}

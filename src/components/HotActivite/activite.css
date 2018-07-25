@@ -1,0 +1,49 @@
+.activite {
+	position: relative;
+}
+
+.img {
+	width: 100%;
+	border-top: 1px solid #dedede;
+	border-bottom: 1px solid #dedede;
+}
+
+.main {
+	position: relative;
+	margin: -0.6rem 0.24rem 0.35rem 0.24rem;
+	z-index: 1;
+	box-shadow: -3px 3px 20px 0px #989292;
+	padding: 0.33rem 0.65rem 0.33rem 0.65rem;
+	border-radius: 0.05rem;
+	background-color: #FFF;
+}
+
+.title {
+	line-height: 0.4rem;
+	font-weight: bold;
+	word-break:break-all;
+	font-size: 0.3126rem;
+	color: #000000;
+	font-family: 'SimSun';
+}
+
+.address,
+.time {
+	margin-top: 0.15rem;
+	font-size: 0.3084rem;
+	color: #5d5d5d;
+}
+
+.btn {
+	position: absolute;
+	right: 0.2rem;
+	bottom: 0.2rem;
+	width: 0.65rem;
+	height: 0.65rem;
+	border-radius: 3.6rem;
+	background-color: #00C2FF;
+	line-height: 0.65rem;
+	color: #FFF;
+	text-align: center;
+	font-size: 0.25rem;
+}

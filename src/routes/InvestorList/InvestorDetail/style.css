@@ -1,0 +1,45 @@
+.image{
+	height: 6.84rem;
+	background-size: 100%;
+} 
+.details{
+  margin: -0.5rem 0.18rem 0 0.18rem;
+  background-color: white;
+  box-shadow: -4px 3px 16px 0px #d2d2d2;
+  padding: 0.1rem 0.6rem;   
+}
+.names{
+  width: 0.6rem;
+  color: #12a5e0;
+  font-size: 0.31rem;
+  padding-right: -0.3rem;
+}
+.borders{
+	padding-top: 0.2rem !important; 
+	padding-bottom: 0.2rem; 
+}
+.rborder{
+  padding-left: 0.7rem;
+  border-left: 0.03rem solid #12a5e0;
+}
+.introduce{
+  font-size: 0.31rem;
+  line-height: 0.45rem;
+  color: #3e3d3d; 
+}
+.bot{
+	margin-top: 0.3rem;
+	margin-bottom: 1rem;
+}
+.detail{
+	font-size: 0.31rem;
+	line-height: 0.8rem;
+	padding: 0.1rem 0.6rem;  
+}
+.introduces{
+  font-size: 0.31rem;
+  line-height: 0.5rem;
+  color: #3e3d3d; 
+  padding: 0 0.6rem;
+}
+

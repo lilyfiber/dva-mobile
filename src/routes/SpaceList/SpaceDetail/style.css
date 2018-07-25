@@ -1,0 +1,90 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.wrap {
+	margin-top: 0.25rem;
+}
+.box {
+	margin: 0 0.25rem 0.18rem 0.25rem;
+	padding: 0.4rem 0.5rem 0.4rem 0.4rem;
+	border-radius: 0.05rem;
+	background-color: #FFF;
+	box-shadow: -3px 3px 20px 0px #989292;
+}
+.title {
+	margin-top: 0.08rem;
+	font-size: 0.3rem;
+  
+}
+.content {
+	line-height: 0.5rem;
+	font-size: 0.3rem;
+  
+}
+.call {
+	font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  color: rgba(0, 207, 255, 0.7);
+
+  /* Better Font Rendering =========== */
+  display: inline-block;
+  float: right;
+	padding-left: 0.3rem;
+  width: 0.72rem;
+  height: 0.6rem;
+  border-left: 1px solid gray;
+  font-size: 0.6rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.apply {
+	margin: 0.65rem auto;
+	width: 1.6rem;
+	height: 1.6rem;
+	line-height: 1.6rem;
+	background-color: #00CFFF;
+	border-radius: 3.6rem;
+	font-size: 0.32rem;
+	color: #FFF;
+	text-align: center;
+}
+.icon
+{
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 0.6rem;
+}
+.active {
+	color: #0ac4ff;
+}
+
+.gridNode {
+  width:1.13rem;
+  text-align: center;
+  padding-bottom: 0.3rem;
+}
+
+.gridLabel
+{
+  font-size: 0.28rem;
+}
+
+.policyList
+{
+  list-style: decimal;
+}

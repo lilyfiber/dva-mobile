@@ -1,0 +1,32 @@
+.header
+{
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 0.88rem;
+	background-color: white;
+	opacity: 0.75;
+	z-index: 999999;
+}
+
+.content
+{
+	position: relative;
+}
+
+.left
+{
+	position: absolute;
+	width: 1.50rem;
+	top: 0.12rem;
+	left: 0.28rem;
+}
+
+.right
+{
+	position: absolute;
+	width: 0.9rem;
+	top: 0.12rem;
+	right: 0.28rem;
+}

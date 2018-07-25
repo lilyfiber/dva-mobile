@@ -1,0 +1,18 @@
+.tagDIV{
+	margin: 5px;
+}
+.close {
+	height: 0.8rem;
+	font-size: 0.5rem;
+}
+.closeBtn {
+	float: right;
+	width: 0.6rem;
+	height: 0.6rem;
+	line-height: 0.5rem;
+	border-radius: 3.6rem;
+	background-color: rgba(173, 159, 163, 0.39);
+	text-align: center;
+	font-size: 0.2rem;
+	opacity: 2;
+}

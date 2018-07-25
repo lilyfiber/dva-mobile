@@ -1,0 +1,36 @@
+.back{
+  margin-top: 1.5rem;
+}
+
+.icon{
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.backText{
+  width: 1.55rem;
+  height: 1.55rem;
+  line-height: 1.55rem;
+  border-radius: 3.6rem;
+  background-color: #00C2FF;
+  box-shadow: 0px 0px 20px 0px #989292;
+  font-size: 0.35rem;
+  text-align: center;
+  color: #FFF;
+  margin: 0 auto 1.0rem auto;
+}
+
+.floatLayer{
+  clear: both;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.control
+{
+  position: relative;
+  webkit-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+  flex: 1;
+}

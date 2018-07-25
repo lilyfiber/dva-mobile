@@ -1,0 +1,122 @@
+.projectDetail{
+  background-color: #F2F2F2; 
+  height: 100%;
+  position: 'relative';
+}
+.top {
+  position: relative;
+  padding-top: 0.5rem;
+  padding-bottom: 0.8rem;
+  width: 100%;
+  background-color: #00CFFF;
+}
+.brief {
+  color: white;
+  font-size: 0.24rem;
+  margin: 0.1rem 0.2rem 0 0;
+  line-height: 0.32rem;
+}
+.content {
+  margin: 0 1.8rem 0 1rem;
+}
+.title {
+  font-weight: bold;
+  font-size: 0.38rem;
+  color: #FFF;
+  line-height: 0.6rem;
+}
+.introduce {
+  font-size: 0.3rem;
+  color: #FFF;
+  line-height: 0.5rem;
+}
+.image {
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 0.2rem;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  right: 0.3rem;
+  bottom: 1rem;
+}
+
+.details{
+  margin: 0.25rem 0.25rem 0.15rem 0.25rem;
+  background-color: white;
+  box-shadow: -4px 3px 16px 0px #d2d2d2;
+  padding: 0.4rem 0.6rem;   
+}
+
+.center {
+  background-color: white;
+  margin: -0.27rem 0.25rem 0.15rem 0.25rem;
+  box-shadow: -4px 3px 16px 0px #d2d2d2;
+  padding: 0.1rem 0.6rem;
+  position: relative;
+}
+
+.images{
+  margin-top: 0.1rem;
+  padding-right: 0.3rem;
+  width:0.6rem;
+}
+
+
+.inv{
+  font-size: 0.33rem;
+  line-height: 0.6rem;
+}
+.addr{
+  font-size: 0.31rem;
+  line-height: 0.6rem;
+  color: #3e3d3d;
+}
+.addrs{
+  font-size: 0.31rem;
+  line-height: 0.5rem;
+  color: #3e3d3d;
+  padding-bottom: 0.85rem;
+  padding-top: 0.31rem;
+  width: 100%;
+}
+.space{
+  height: 1.14rem;
+  background-color: #00CFFF;
+  text-align: center;
+  font-size: 0.31rem;
+  line-height: 0.8rem;
+  color: #FFF;
+  margin-top: 0.4rem;
+}
+.park{
+  margin-top: -0.27rem;
+}
+.call {
+  margin: 0.81rem auto;
+  width: 1.6rem;
+  height: 1.6rem;
+  line-height: 1.6rem;
+  border-radius: 3.6rem;
+  background-color: #00CFFF;
+  text-align: center;
+}
+
+.phone{
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  color: rgba(255, 255, 255, 0.8);
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 0.72rem;
+  height: 0.6rem;
+  font-size: 0.9rem;
+  z-index: 2;
+}
